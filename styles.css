@@ -33,7 +33,7 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-    width: 30%;
+    width: 8%;
     background-color: #fff5ec; /* Change this to your desired grey color */
     color: rgb(0, 0, 0);
     text-align: center;
@@ -85,8 +85,8 @@ header h1 {
 }
 
 header h2 {
-    font-size: 1.4rem;
-    margin: 20px;
+    font-size: 1rem;
+    margin: 10px;
     color: #fff;
     font-family: Verdana, sans-serif;
 }
