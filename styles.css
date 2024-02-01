@@ -297,7 +297,7 @@ nav {
     justify-content: center;
     align-items: center;
     background-color: transparent; /* Set background to transparent */
-    margin-right: 10px;
+    margin-right: 0px;
 }
 
 nav a {
