@@ -3,9 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <!-- header.html content goes here -->
         <header class="small-header">
             <div class="header-content">
-                <a href="index.html">
-                <img src="more_travel_logo.png" alt="Company Logo" id="company-logo">
-                </a>
+
             </div>
             <a href="apply.html" class="apply-button">Apply</a>
             <nav>
