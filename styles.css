@@ -37,7 +37,7 @@ header {
     background-color: #fff5ec; /* Change this to your desired grey color */
     color: rgb(0, 0, 0);
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     z-index: 1000;
     display: flex;
@@ -86,7 +86,7 @@ header h1 {
 
 header h2 {
     font-size: 1rem;
-    margin: 10px;
+    margin: 5px;
     color: #fff;
     font-family: Verdana, sans-serif;
 }
