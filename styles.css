@@ -884,19 +884,19 @@ header h2 {
 
   a.cta-button2 {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 7.5px 20px; /* Adjusted padding for 3/4 height */
     margin-top: 20px;
     background-color: transparent;
-    color: #000000;
+    color: #000;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
-    border: 2px solid #000; /* Add a solid black border */
+    border: 2px solid #000;
 }
 
 a.cta-button2:hover {
     background-color: #ff9900;
-    border-color: transparent; /* Remove border on hover */
+    border-color: transparent;
 }
 
 a.cta-button2.apply-button {
@@ -908,6 +908,7 @@ a.cta-button2.apply-button:hover {
     background-color: #ff9900;
     border-color: transparent;
 }
+
 
 
   #flexible-work {
