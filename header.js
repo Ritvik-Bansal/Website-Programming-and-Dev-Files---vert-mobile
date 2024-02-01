@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <nav>
                 <a href="job-openings.html">Home</a>
                 <a href="index.html">Jobs</a>
-                <a href="sections.html" class="cta-button">-</a>
+                <a href="sections.html" class="cta-button2">-</a>
                
             </nav>
             
