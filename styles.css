@@ -297,14 +297,14 @@ nav {
     justify-content: center;
     align-items: center;
     background-color: transparent; /* Set background to transparent */
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 nav a {
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 8px; /* Adjust padding for smaller buttons */
-    margin: 5px; /* Adjust margin for smaller spacing */
+    margin: 2px; /* Adjust margin for smaller spacing */
     border-radius: 4px;
     background-color: transparent; /* Set background to transparent */
     transition: background-color 0.3s;
