@@ -53,7 +53,7 @@ header .header-content {
 }
 
 header #company-logo {
-    margin-right: 10px;
+    margin-right: 2px;
 }
 
 header h1 {
@@ -885,7 +885,7 @@ header h2 {
   a.cta-button2 {
     display: inline-block;
     padding: 7.5px 20px; /* Adjusted padding for 3/4 height */
-    margin-top: 10px;
+    margin-top: 5px;
     background-color: transparent;
     color: #000;
     text-decoration: none;
