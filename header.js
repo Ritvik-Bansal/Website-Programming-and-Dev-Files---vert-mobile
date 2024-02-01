@@ -7,10 +7,11 @@ document.addEventListener('DOMContentLoaded', function () {
                 <img src="more_travel_logo.png" alt="Company Logo" id="company-logo">
                 </a>
             </div>
-            <a href="apply.html" class="apply-button">Apply</a>
+            
             <nav>
                 <a href="job-openings.html">Home</a>
                 <a href="index.html">Jobs</a>
+                <a href="apply.html" class="apply-button">Apply</a>
                 <a href="sections.html" class="cta-button2">-</a>
                
             </nav>
