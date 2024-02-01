@@ -886,18 +886,29 @@ header h2 {
     display: inline-block;
     padding: 10px 20px;
     margin-top: 20px;
-    background-color: #007bff00;
+    background-color: transparent;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
-    transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    border: 2px solid #000; /* Add a solid black border */
+}
+
+a.cta-button2:hover {
+    background-color: #ff9900;
+    border-color: transparent; /* Remove border on hover */
+}
+
+a.cta-button2.apply-button {
+    background-color: transparent;
     border-color: #000;
-  }
-  
-  a.cta-button2.apply-button {
-    background-color: #0057b300;
-    border-color: #000;
-  }
+}
+
+a.cta-button2.apply-button:hover {
+    background-color: #ff9900;
+    border-color: transparent;
+}
+
 
   #flexible-work {
     max-width: 1800px;
