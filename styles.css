@@ -239,15 +239,15 @@ li2.hidden {
 /* Form container styles */
 .form-container {
     max-width: 600px;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 0px auto;
+    padding: 0px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 #form{
     max-width: 800px; /* Adjust the value as needed */
-    margin-top: 20px auto; /* Center the form horizontally */
+    margin-top: 0px auto; /* Center the form horizontally */
     border-radius: 15px;
 }
 
