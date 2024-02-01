@@ -52,13 +52,10 @@ header .header-content {
     font-weight: bold;
 }
 
-header #company-logo {
-    margin-right: 2px;
-}
 
 header h1 {
     margin: 0;
-    font-size: 24px; /* Adjust the font size as needed */
+    font-size: 17px; /* Adjust the font size as needed */
     font-family: Verdana, sans-serif;
 }
 
