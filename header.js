@@ -7,9 +7,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 <img src="more_travel_logo.png" alt="Company Logo" id="company-logo">
                 </a>
             </div>
+            <a href="apply.html" class="apply-button">Apply Now</a>
             <nav>
-                <a href="index.html">Home</a>
-                <a href="job-openings.html">Current Job Openings</a>
+                <a href="job-openings.html">Home</a>
+                <a href="index.html">Current Job Openings</a>
                 <a href="internships.html">Internships</a>
                 <div class="dropdown">
                     <button class="dropbtn">Life at More Travel</button>
@@ -23,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <a href="hiring-tips.html">Hiring Tips</a>
                 <a href="testimonies.html">Testimonials</a>
             </nav>
-            <a href="apply.html" class="apply-button">Apply Now</a>
+            
         </header>
     `;
 
