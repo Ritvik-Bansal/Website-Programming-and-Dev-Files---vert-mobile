@@ -19,6 +19,78 @@ body.home-page {
     padding: 0;
 }
 
+#header-container {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+/* Header */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff5ec; /* Change this to your desired grey color */
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, sans-serif;
+}
+
+header .header-content {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+header #company-logo {
+    margin-right: 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px; /* Adjust the font size as needed */
+    font-family: Verdana, sans-serif;
+}
+
+.small-header {
+    height: 90px; /* Adjust the height as needed */
+}
+
+.small-header .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.small-header nav {
+    display: flex;
+    align-items: center;
+}
+
+.header-content img {
+    width: 80px;
+    vertical-align: middle;
+    border-style: none;
+    border-radius: 0%;
+}
+
+header h2 {
+    font-size: 1.4rem;
+    margin: 20px;
+    color: #fff;
+    font-family: Verdana, sans-serif;
+}
+
 
 /* Background Image Styles */
 .background-container-careers {
