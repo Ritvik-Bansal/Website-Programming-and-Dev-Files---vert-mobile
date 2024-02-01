@@ -11,18 +11,8 @@ document.addEventListener('DOMContentLoaded', function () {
             <nav>
                 <a href="job-openings.html">Home</a>
                 <a href="index.html">Jobs</a>
-                <a href="internships.html">Internships</a>
-                <div class="dropdown">
-                    <button class="dropbtn">Life at More Travel</button>
-                    <div class="dropdown-content">
-                        <a href="benefits.html">Benefits</a>
-                        <a href="culture.html">Culture</a>
-                        <a href="diversity.html">Diversity</a>
-                        <a href="flexible-work.html">Flexible Work</a>
-                    </div>
-                </div>
-                <a href="hiring-tips.html">Hiring Tips</a>
-                <a href="testimonies.html">Testimonials</a>
+                <a href="sections.html" class="cta-button">-</a>
+               
             </nav>
             
         </header>
