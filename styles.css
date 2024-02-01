@@ -63,7 +63,7 @@ header h1 {
 }
 
 .small-header {
-    height: 90px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
 }
 
 .small-header .header-content {
@@ -78,7 +78,7 @@ header h1 {
 }
 
 .header-content img {
-    width: 10px;
+    width: 5px;
     vertical-align: middle;
     border-style: none;
     border-radius: 0%;
