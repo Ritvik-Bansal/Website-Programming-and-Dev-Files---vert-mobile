@@ -246,8 +246,8 @@ li2.hidden {
 }
 
 #form{
-    max-width: 800px; /* Adjust the value as needed */
-    margin-top: 0px auto; /* Center the form horizontally */
+    max-width: 700px; /* Adjust the value as needed */
+    margin-top: 10px auto; /* Center the form horizontally */
     border-radius: 15px;
 }
 
@@ -384,7 +384,7 @@ a {
 
 .job-item h3{
     color: #333;
-    margin-top: 15px;
+    margin-top: 10px;
     margin-bottom: 5px;
     transition: color 0.3s ease-in-out;
 }
@@ -860,6 +860,7 @@ header h2 {
   p2 {
     line-height: 1.6;
     margin-bottom: 15px;
+    font-size: 8px;
     color: #000000;
   }
   
