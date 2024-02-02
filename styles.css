@@ -82,7 +82,7 @@ header h1 {
 }
 
 header h2 {
-    font-size: 1rem;
+    font-size: 15px;
     margin: 2px;
     color: #fff;
     font-family: Verdana, sans-serif;
@@ -92,7 +92,7 @@ header h2 {
 /* Background Image Styles */
 .background-container-careers {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 70px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/careers.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -101,7 +101,7 @@ header h2 {
 
 .background-container-benefits {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/benefits.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -110,7 +110,7 @@ header h2 {
 
 .background-container-culture {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/culture.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -119,7 +119,7 @@ header h2 {
 
 .background-container-diversity {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/diversity.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -128,7 +128,7 @@ header h2 {
 
 .background-container-flexible-work {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/flexible-work.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -137,7 +137,7 @@ header h2 {
 
 .background-container-hiring-tips {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/hiring-tips.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -146,7 +146,7 @@ header h2 {
 
 .background-container-internships {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/internships.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -164,7 +164,7 @@ header h2 {
 
 .background-container-testimonials {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 50px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/testimonials.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -173,7 +173,7 @@ header h2 {
 
 .background-container-application {
     margin-top: 15%;
-    height: 150px; /* Adjust the height as needed */
+    height: 70px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/application.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -239,8 +239,8 @@ li2.hidden {
 /* Form container styles */
 .form-container {
     max-width: 600px;
-    margin: 0px auto;
-    padding: 0px;
+    margin: 20px auto;
+    padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -253,7 +253,7 @@ li2.hidden {
 
 /* Form control styles */
 .form-control {
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 .form-control label {
@@ -625,7 +625,7 @@ body.show-chatbot .chatbot {
 }
 
 header h2 {
-    font-size: 1.4rem;
+    font-size: 15px;
     margin: 20px;
     color: #fff;
     font-family: Verdana, sans-serif;
@@ -929,7 +929,7 @@ a.cta-button2.apply-button:hover {
   h2 {
     color: #333;
     margin-bottom: 20px;
-    font-size: 28px;
+    font-size: 15px;
   }
   
   ul2 {
