@@ -1001,6 +1001,11 @@ li2 {
     transform: scale(1.05);
 }
 
+.job-list {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
 
 .job-item img {
     margin: 0;
