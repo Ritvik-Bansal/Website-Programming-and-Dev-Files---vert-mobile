@@ -82,7 +82,7 @@ header h1 {
 }
 
 header h2 {
-    font-size: 15px;
+    font-size: 17px;
     margin: 2px;
     color: #fff;
     font-family: Verdana, sans-serif;
@@ -235,7 +235,6 @@ li2.hidden {
 }
 
 
-
 /* Form container styles */
 .form-container {
     max-width: 600px;
@@ -246,7 +245,7 @@ li2.hidden {
 }
 
 #form{
-    max-width: 700px; /* Adjust the value as needed */
+    max-width: 400px; /* Adjust the value as needed */
     margin-top: 10px auto; /* Center the form horizontally */
     border-radius: 15px;
 }
@@ -386,6 +385,7 @@ a {
     color: #333;
     margin-top: 10px;
     margin-bottom: 5px;
+    font-size: 15px;
     transition: color 0.3s ease-in-out;
 }
 
@@ -860,7 +860,7 @@ header h2 {
   p2 {
     line-height: 1.6;
     margin-bottom: 15px;
-    font-size: 8px;
+    font-size: 12px;
     color: #000000;
   }
   
