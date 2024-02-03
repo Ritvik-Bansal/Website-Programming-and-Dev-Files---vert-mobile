@@ -240,11 +240,10 @@ li2.hidden {
     margin: 20px auto;
     padding: 20px;
     background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 #form{
-    max-width: 300px; /* Adjust the value as needed */
+    max-width: 350px; /* Adjust the value as needed */
     margin-top: 10px auto; /* Center the form horizontally */
     border-radius: 15px;
 }
@@ -831,7 +830,7 @@ header h2 {
 
   .diversity-content {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     /*max-width: 1800px;
     margin: 30px auto;
     padding: 30px;
@@ -842,7 +841,7 @@ header h2 {
 
   .hiring {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     /*max-width: 1800px;
     margin: 30px auto;
     padding: 30px;
@@ -946,18 +945,18 @@ a.cta-button2.apply-button:hover {
     padding: 0;
     margin: 0;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 20px;
   }
 
   .benefits {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
 }
 
 .culture {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
  
 }
 
