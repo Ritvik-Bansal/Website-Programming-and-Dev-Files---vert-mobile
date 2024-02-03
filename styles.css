@@ -244,7 +244,7 @@ li2.hidden {
 }
 
 #form{
-    max-width: 100px; /* Adjust the value as needed */
+    max-width: 300px; /* Adjust the value as needed */
     margin-top: 10px auto; /* Center the form horizontally */
     border-radius: 15px;
 }
