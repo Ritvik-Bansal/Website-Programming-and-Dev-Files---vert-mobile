@@ -173,7 +173,7 @@ header h2 {
 
 .background-container-application {
     margin-top: 15%;
-    height: 70px; /* Adjust the height as needed */
+    height: 80px; /* Adjust the height as needed */
     position: relative;
     background: url('main-images/application.png') top center no-repeat;
     background-size: 100%; /* Adjust to 'cover', 'auto', '50%', etc. based on your preference */
@@ -191,8 +191,7 @@ header h2 {
     position: absolute;
     top: 50%; /* Adjust vertical position */
     left: 15%; /* Adjust horizontal position */
-    transform: translate(-50%, -50%);
-    
+    transform: translate(-50%, -50%);   
 }
 
 /* Suggestions container styles */
